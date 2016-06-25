@@ -63,11 +63,6 @@ public class Monster : MonoBehaviour
 	}
 	#endregion
 
-	// Use this for initialization
-	void Start () 
-	{
-		
-	}
 	
 	// Update is called once per frame
 	void Update () 
